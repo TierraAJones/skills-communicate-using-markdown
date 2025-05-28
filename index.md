@@ -9,6 +9,6 @@ This repo is an example of me testing out markdown through GitHub Skills. I only
 print("Hello, World!")
 ```
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
+- [ ] Start on GitHub Pages
+- [ ] Create and outline my portfolio
 - [ ] Introduce myself to the world
