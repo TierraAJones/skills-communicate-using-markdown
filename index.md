@@ -2,4 +2,9 @@
 
 This repo is an example of me testing out markdown through GitHub Skills. I only added a simple message since the file was empty earlier.
 
+
 ![Image of Yuki](https://lh3.googleusercontent.com/-MjsGuAYFTbc/UVjjtsjE9bI/AAAAAAAAW0M/7qTVKnYcMoI/s640/VLC-00007.png)
+
+``` python
+print("Hello, World!")
+```
